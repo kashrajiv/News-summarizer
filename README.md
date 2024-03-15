@@ -1,3 +1,13 @@
 # News-summarizer
 
-The repo summarizes news articles by vectorization
+Welcome to the News Summarizer. This summarizes news using NLP.
+
+The following is an example:
+1 - Introduction to Generative AI by Google Cloud Tech(https://www.youtube.com/watch?v=G2fqAlgmoPo) - credits
+
+The actual script:
+Several French government departments have been experiencing a series of cyberattacks in the past day, with the government activating a crisis unit to deal with the attack.According to the prime minister's office, the impact has now been reduced and access to some government websites was “re-established,” but the attacks are still ongoing.“Since [Sunday], several government departments have been the subject of cyberattacks whose technical methods are conventional but the intensity unprecedented,” the prime minister’s office 
+said in a statement. “Many ministerial services have been targeted," it added.Teams mobilized from the interministerial digital affairs department DINUM and France’s cybersecurity agency ANSSI continue to fend off the attacks, added the prime minister’s office.It is still unclear who is behind the attacks. Pro-Russian hacker group Anonymous Sudan claimed responsibility for "a massive cyberattack" on the infrastructure of the French Interministerial Directorate of Digital Affairs on their Telegram channel.The group has been behind a series of politically motivated "distributed denial-of-service" attacks (DDoS), in which massive amounts of internet traffic are directed at websites and services, causing them to go offline. The attacks in themselves do not constitute a breach of IT systems but can seriously disrupt communications and services, and are sometimes conducted in parallel with attempts to hack into systems.
+
+News Summary:
+French government departments have been experiencing a series of cyberattacks in the past day. The impact has now been reduced and access to some government websites was “re-established,” but the attacks are still ongoing. Pro-Russian hacker group Anonymous Sudan claimed responsibility for "a massive cyberattack" on the infrastructure of the French Interministerial Directorate of Digital Affairs on their Telegram channel. The group has been behind a string of politically motivated "distributed denial-of-service" attacks (DDoS), in which massive amounts of internet traffic are directed at websites and services. The attacks can seriously disrupt communications and services, and are sometimes conducted in parallel with attempts to hack into systems.
